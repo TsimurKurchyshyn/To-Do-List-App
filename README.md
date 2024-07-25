@@ -3,7 +3,7 @@
 
 ---
 
-### To play the app, click [here]()
+### To play the app, click [here](https://tsimurkurchyshyn.github.io/To-Do-List-App/)
 )
 
 ---
