@@ -3,7 +3,8 @@
 
 ---
 
-### To play the app, click [here](https://tsimurkurchyshyn.github.io/Simple-Weather-App/)
+### To play the app, click [here]()
+)
 
 ---
 
